@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #e0e1dd;
+    background-color: #0d1b2a;
+}
+
+.container h1{
+    margin: 32px;
+}
+
+.recipes li a{
+    color: #e0e1dd;
+}
+.recipes{
+    padding: 20px;
+}
+
+.recipes li{
+    padding: 24px;
+}
+.container h2{
+    margin-top: 20px;
+    margin-bottom: 16px;
+    padding-left: 10px;
+}
+
+.container p{
+    padding: 10px;
+    line-height: 24px;
+    text-align: justify;
+}
+
+.box ul,
+.box ol{
+    padding: 20px;
+}
+
+.box ul li,
+.box ol li{
+    padding: 10px;
+}
+
+.box a{
+    color: #e0e1dd;
+    padding-left: 10px;
+    font-size: 24px;
+}
+
+
